@@ -6,4 +6,4 @@ A mobile application where you generate words related to the given random word.
 
 **Screenshoots :**
 
-
+<img src="WordScramble screenshoot.gif" width="400"/>
