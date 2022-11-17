@@ -1,11 +1,12 @@
-# 100DaysOfSwift
-This repo shows my 100 day swift adventure.💻
+## 📱 Easy Browser
 
-Current Challenge 19/100 - 05.11.2022
+**Purpose of the App:**
 
-|Order|App Name  |
-|--|--|
-|0 |[Swift Tutorial](https://github.com/talhagg/100DaysOfSwift/tree/main/SwiftTutorial) |
-|1 |[Storm Viewer](https://github.com/talhagg/100DaysOfSwift/tree/main/StormViewer) |
+This application is a simple browser structure.
+
+**Screenshoots :**
+
+<img src="Screenshoot.gif" width="400"/>
+
 
 
