@@ -1,11 +1,9 @@
-# 100DaysOfSwift
-This repo shows my 100 day swift adventure.💻
+## 🗒️ Word Scramble
 
-Current Challenge 19/100 - 05.11.2022
+**Purpose of the App:**
 
-|Order|App Name  |
-|--|--|
-|0 |[Swift Tutorial](https://github.com/talhagg/100DaysOfSwift/tree/main/SwiftTutorial) |
-|1 |[Storm Viewer](https://github.com/talhagg/100DaysOfSwift/tree/main/StormViewer) |
+A mobile application where you generate words related to the given random word.
+
+**Screenshoots :**
 
 
